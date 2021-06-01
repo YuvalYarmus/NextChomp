@@ -1,0 +1,29 @@
+{
+  "name": "nextchomp",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuvalYarmus/NextChomp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuvalYarmus/NextChomp/issues"
+  },
+  "homepage": "https://github.com/YuvalYarmus/NextChomp#readme",
+  "dependencies": {
+    "next": "^10.2.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.8",
+    "typescript": "^4.3.2"
+  }
+}
