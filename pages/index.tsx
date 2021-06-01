@@ -14,7 +14,6 @@ function HomePage() {
         href= {
             {
                 pathname: "/bot"
-                
             }
         }
         >
